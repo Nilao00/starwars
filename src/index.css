@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.containerBody{
+  margin-top: 4rem;
+  margin-left: 13%;
+  margin-right: 13%;
+}
