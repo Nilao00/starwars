@@ -52,7 +52,7 @@ export default class Planetas extends React.Component{
     render(){
         return(
             <div className="containerBody">
-           
+                 <h1 align="center">Planets</h1>
                     
                    {/* Inicio do card */}
                    {
